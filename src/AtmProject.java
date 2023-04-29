@@ -20,6 +20,7 @@ public class AtmProject {
         System.out.println();
         System.out.println("benim versiyonum");
         //localde değişiklik yaptım
+        //remoteda değişiklik yaptım
     }
 
 }
