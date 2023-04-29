@@ -19,6 +19,7 @@ public class AtmProject {
         //nsb3
         System.out.println();
         System.out.println("benim versiyonum");
+        //localde değişiklik yaptım
     }
 
 }
